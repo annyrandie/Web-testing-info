@@ -21,3 +21,10 @@
 * Mandatory and Optional fields should be verified for the positive and negative inputs
 * Default values for each web field should be verified
 * Email functionality is implemented for some action on the website
+
+```
+Considering cookies, which are used to maintain login sessions, the website should be tested by enabling/disabling cookies or by using the mismatched domain. Testing can also be performed across sessions by resetting cookies to bring browsers back to the vanilla state.
+QA should also validate that website cookies are always stored locally in an encrypted format.
+Similarly, different functionalities like Login, Signup, Search Option, Filters, Sort Order, Add to Cart, etc. should be verified on different web pages like Login Page, Sign up Page, Product Details Page, Shopping Cart, Order Review, Payment, etc. The website should be checked for session/cookie management like session expiration and session storage etc.
+
+```
