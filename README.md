@@ -28,4 +28,15 @@ QA should also validate that website cookies are always stored locally in an enc
 Similarly, different functionalities like Login, Signup, Search Option, Filters, Sort Order, Add to Cart, etc. should be verified on different web pages like Login Page, Sign up Page, Product Details Page, Shopping Cart, Order Review, Payment, etc. The website should be checked for session/cookie management like session expiration and session storage etc.
 
 ```
+### Usability testing
 
+![usability testing](https://cdn.softwaretestinghelp.com/wp-content/qa/uploads/2018/04/Usability-testing-Overview.jpg)
+
+* Website content should be informative, structured and linked logically so that user can understand easily
+* Web page controls should be easy for users to navigate
+* The website should have Help & Instruction documents uploaded
+* The website should have the Search feature for end-user convenience
+* Access to/from the Main menu to all pages should be there
+* Website content should be verified for any spelling mistakes
+* The website should follow defined guidelines in the context of background color, pattern, style, fonts, image placements,    frames, borders, etc.
+* The website should be accustomed to the translation feature considering the fact that it can be accessed by users from different nations with different languages, currencies, etc.
